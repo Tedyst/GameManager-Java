@@ -1,0 +1,5 @@
+main: ovh.stoicatedy.GameManager.Main
+name: GameManager
+version: 1.0-SNAPSHOT
+author: Tedyst
+description: GameManager Java Implementation
